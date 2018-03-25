@@ -1,6 +1,6 @@
-$acctname = "admin";
-$password = "787c18fb8fbc2d03e998285fdcd4a2c0";
-$server = "192.168.0.24";
+$acctname = "";
+$password = "";
+$server = "";
 $port = "8080";
 $jobName = "FreeStyleJenkins";
 $jobToken = "admin";
